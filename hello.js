@@ -1,5 +1,6 @@
 function hello(){
-    alert("Hello COMP229!!!");
+    alert("Hello students of COMP229!!!");
+    alert("HI!")
 }
 hello();
 
